@@ -8,5 +8,6 @@ int main(void) {
 	printf("%s\n", spruch[0]);
 	printf("%s\n", spruch[1]);
 
+	printf("Brudi es rennt!");
 	return 0;
 }
